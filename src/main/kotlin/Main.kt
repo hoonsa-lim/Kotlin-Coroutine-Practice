@@ -1,12 +1,19 @@
-import kotlinx.coroutines.delay
-import kotlinx.coroutines.launch
-import kotlinx.coroutines.runBlocking
-
-
 fun main(args: Array<String>) {
 //    basic1()
 //    basic1Transform()
 //    basic1Transform1()
 //    basic2()
-    basic3()
+//    basic3()
+//    introduce(age = 14, phone = "010")
+//    testVararg2(1.9f, "길순", "기순", "길도", groupName = "")
+//    testVararg3(groupName = "ver", "ver", "ver", "vaser")
+//    testDestructuring()
+//    testTriple()
+//    testRange()
+//    testFor()
+//    testForDown()
+//    arrayTest()
+//    testWhen()
+//    testCollection()
+    testGeneric()
 }
