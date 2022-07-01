@@ -15,5 +15,6 @@ fun main(args: Array<String>) {
 //    arrayTest()
 //    testWhen()
 //    testCollection()
-    testGeneric()
+//    testGeneric()
+    testInlineClass()
 }
